@@ -1,0 +1,20 @@
+Section1 : Data Types 
+On 12-2-2022
+-------------------
+
+1- Integers - int = 12,13,10
+
+2 - Floating - float = 1.3 , 12.0
+
+3 - String - str = "Helloo" 'hello' / ordered sequence of character
+
+4- Lists - list= ordered sequence of objects = list['hi' , '123', 233.0]
+
+5- Dictionry - dict = unordered key value pairs = {"Mykey","Value"}
+
+6- Tuples - tup = ordered immutable sequence of objects = (10, "hello" , 23.0)
+
+7- Sets - Set = Unordered collection of unique objects {"a","b"}
+
+8- Booleans - bool Logical value indicating True - False 
+
